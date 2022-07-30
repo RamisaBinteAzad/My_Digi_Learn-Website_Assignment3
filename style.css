@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+
+}
+.elearning-Institute-section-bg{
+    background-color: #F4FAFD;
+}
+
+img {
+    width: 100%;
+}
+
+ 
+
+@media screen and (max-width:575px) {
+
+    h1,
+    h2 {
+        font-size: 1rem;
+
+    }
+
+    p,span{
+        font-size: 0.8rem;
+    }
+
+    header p {
+        font-size: 0.56rem;
+    }
+
+    h5 {
+        font-size: 1rem;
+    }
+    footer small{
+        font-size: 0.58rem;
+    }
+     
+
+
+
+}
+
+@media screen and (min-width:576px) and (max-width:767px) {
+
+    h1,
+    h2 {
+        font-size: 1.5rem;
+
+    }
+
+    header p {
+        font-size: 0.7rem;
+    }
+
+
+    p,span{
+        font-size: 0.9rem;
+    }
+
+    h5 {
+        font-size: 1rem;
+    }
+    footer  small{
+        font-size: 0.7rem;
+    }
+
+
+}
+
+@media screen and (min-width:768px) and (max-width:991px) {
+
+    h1,
+    h2 {
+        font-size: 1.7rem;
+
+    }
+
+    header p {
+        font-size: 0.8rem;
+    }
+
+    p,span {
+        font-size: 1rem;
+    }
+
+    h5 {
+        font-size: 1.3rem;
+    }
+    footer  small{
+        font-size: 0.84rem;
+    }
+
+
+
+}
+
+@media screen and (min-width:992px) and (max-width:1199px) {
+
+    h1,
+    h2 {
+        font-size: 2.5rem;
+
+    }
+
+    header p {
+        font-size: 0.9rem;
+    }
+
+    p,span{
+        font-size: 0.9rem;
+    }
+
+    h5 {
+        font-size: 1.2rem;
+    }
+    footer small{
+        font-size: 0.8rem;
+    }
+
+
+}
